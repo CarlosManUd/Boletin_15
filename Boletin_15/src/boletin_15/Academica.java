@@ -7,7 +7,7 @@ import personal.Personal;
  * @author cfigueirasvalverde
  */
 class Academica {
-    int numreferencia=2018;
+    int numreferencia=2020;
     String nome;
     int nota;
     Personal alumno;
